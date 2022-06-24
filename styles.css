@@ -1,0 +1,17 @@
+.navbar {
+    justify-content: start;
+    
+  }
+  a {
+    margin-right: 15px;
+  }
+  ul{
+
+        list-style-type: none;
+        padding-left: 0;
+    }
+
+    .jumbotron {
+        margin-bottom: 0;
+        min-height: 94vh;
+      }
